@@ -5,6 +5,8 @@ leetcode sources repo
 
 ## Proposal
 
+```
 /
 ├── `problem-number`-`end of uri`
 │   └── `account name`.`extension`
+```
